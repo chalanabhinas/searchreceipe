@@ -1,0 +1,13 @@
+.formcll {
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 15px;
+    background: blue;
+    justify-content: center;
+    padding: 25px;
+}
+.form-control{width:300px;}
+.btn.btn-primary {
+    margin-left: 15px;
+}
